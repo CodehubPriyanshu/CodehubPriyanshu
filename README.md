@@ -75,9 +75,12 @@ You can find these and more across my repos (I maintain 20+ public repositories)
 
 ###
 
+<h2 align="left">Portfolio</h2>
+
+###
+
 <p align="left">
-- LinkedIn: <a href="https://www.linkedin.com/in/priyanshu-singh-45a2a5235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=andriod_app">Priyanshu Kumar</a>.<br>
-- More projects and repos: check my GitHub profile. :contentReference[oaicite:2]{index=2}
+Check out my work here: <a href="protfolio-xi-drab.vercel.app" target="_blank">Priyanshu Kumar — Portfolio</a>
 </p>
 
 ###
