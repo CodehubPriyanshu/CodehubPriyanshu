@@ -30,16 +30,12 @@ Below are a few highlights from my GitHub — quick one-liners with what each pr
 </p>
 
 <ul align="left">
-  <li><strong>Promptify</strong> — full-stack AI prompt builder with modular components and API integrations (React + Node + TypeScript). (see repository)</li>
-  <li><strong>SentimentSage</strong> — AI sentiment analysis app with React frontend and Flask backend that fetches and analyzes comments in real time. (see repository)</li>
+  <li><strong>Promptify</strong> — full-stack AI prompt builder with modular components and API integrations (React + Node + TypeScript).</li>
+  <li><strong>SentimentSage</strong> — AI sentiment analysis app with React frontend and Flask backend that fetches and analyzes comments in real time.</li>
   <li><strong>Chat-Application</strong> — realtime React + Firebase chat app with auth, media support, and notifications.</li>
   <li><strong>HireHub-JobPortal</strong> — MERN job portal with search, role-based access, secure auth, and application tracking.</li>
   <li><strong>Finance / Data & EDA</strong> — several Python projects focused on data analysis and PowerBI dashboards (mobile usage analytics, sales and finance analysis).</li>
 </ul>
-
-<p align="left">
-You can find these and more across my repos (I maintain 20+ public repositories). :contentReference[oaicite:1]{index=1}
-</p>
 
 ###
 
@@ -71,19 +67,14 @@ You can find these and more across my repos (I maintain 20+ public repositories)
 
 ###
 
-<h2 align="left">How to reach me</h2>
-
-###
-
 <h2 align="left">Portfolio</h2>
 
 ###
 
 <p align="left">
-Check out my work here: <a href="protfolio-xi-drab.vercel.app" target="_blank">Priyanshu Kumar — Portfolio</a>
+Check out my work here: <a href="https://your-portfolio-link.com" target="_blank">Priyanshu Kumar — Portfolio</a>
 </p>
 
 ###
 
 <p align="left">Thanks for stopping by — I welcome collaboration, feedback, and opportunities to build useful tools together.</p>
-
