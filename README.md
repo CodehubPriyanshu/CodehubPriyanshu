@@ -72,7 +72,7 @@ Below are a few highlights from my GitHub — quick one-liners with what each pr
 ###
 
 <p align="left">
-Check out my work here: <a href="https://your-portfolio-link.com" target="_blank">Priyanshu Kumar — Portfolio</a>
+Check out my work here: <a href="https://protfolio-xi-drab.vercel.app/" target="_blank">Priyanshu Kumar — Portfolio</a>
 </p>
 
 ###
