@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-Hi — I'm Priyanshu Kumar, a BCA student at ITM University from Gwalior, India. I build full-stack web apps (MERN + TypeScript), experiment with AI/ML-backed tools, and enjoy shipping practical projects that solve real problems.
+Hi — I'm Priyanshu Kumar, a MCA student at Rustamji Institute of Technology from Gwalior, India. I build full-stack web apps (MERN + TypeScript), experiment with AI/ML-backed tools, and enjoy shipping practical projects that solve real problems.
 </p>
 
 ###
